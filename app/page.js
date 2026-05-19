@@ -136,7 +136,7 @@ export default function BabyScoopBarWebsite() {
 
               </h3>
 
-              <div className="text-5xl font-bold mb-4">$20</div>
+              <div className="text-5xl font-bold mb-4">$50</div>
 
               <p className="text-lg mb-6">
 
@@ -180,7 +180,7 @@ export default function BabyScoopBarWebsite() {
 
               </h3>
 
-              <div className="text-5xl font-bold mb-4">$35</div>
+              <div className="text-5xl font-bold mb-4">$95</div>
 
               <p className="text-lg mb-6">
 
