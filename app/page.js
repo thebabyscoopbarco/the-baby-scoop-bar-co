@@ -46,7 +46,7 @@ export default function BabyScoopBarWebsite() {
 
             <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl text-lg shadow transition block">
 
-              Watch LIVE Sales
+              Watch Packaging Videos
 
             </a>
 
@@ -102,7 +102,7 @@ export default function BabyScoopBarWebsite() {
 
               <li>📦 Fast shipping & cute packaging</li>
 
-              <li>🎥 LIVE scooping events on TikTok</li>
+              <li>🎥 Packaging videos on TikTok</li>
 
             </ul>
 
@@ -260,13 +260,13 @@ export default function BabyScoopBarWebsite() {
 
           <h2 className="text-4xl font-bold text-pink-700 mb-6">
 
-            Join Our LIVE Scoops 🎥
+            Watch Our Packaging Videos 🎥
 
           </h2>
 
           <p className="text-xl mb-8">
 
-            Watch mystery scoops happen LIVE and claim your surprises in real time!
+            See all the cute details in our packaging and product reveals!
 
           </p>
 
@@ -280,7 +280,7 @@ export default function BabyScoopBarWebsite() {
 
             <p className="text-lg text-gray-600">
 
-              Follow us on TikTok for LIVE sales, giveaways, and surprise drops 💖
+              Follow us on TikTok for packaging videos, giveaways, and surprise drops 💖
 
             </p>
 
