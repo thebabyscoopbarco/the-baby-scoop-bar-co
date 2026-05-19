@@ -14,7 +14,7 @@ export default function BabyScoopBarWebsite() {
 
             <img
 
-              src="/mnt/data/a_clean_pastel_cartoon_style_logo_design_in_a_ci.png"
+              src="/logo.png"
 
               alt="The Baby Scoop Bar Logo"
 
