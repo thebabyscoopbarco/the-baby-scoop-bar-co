@@ -252,6 +252,56 @@ export default function BabyScoopBarWebsite() {
 
       </section>
 
+      {/* About the Scooper */}
+
+      <section className="py-16 px-6 bg-pink-50">
+
+        <div className="max-w-4xl mx-auto">
+
+          <h2 className="text-4xl font-bold text-pink-700 mb-8 text-center">
+
+            💖 About the Scooper
+
+          </h2>
+
+          <div className="bg-white rounded-3xl shadow-xl p-10 border border-pink-200">
+
+            <p className="text-lg leading-relaxed mb-6">
+
+              Hi and welcome to The Baby Scoop Bar ✨
+
+            </p>
+
+            <p className="text-lg leading-relaxed mb-6">
+
+              I started this little business because I've always loved finding cute baby items and creating fun experiences that bring joy to parents and little ones. As a mom, I know how exciting — and sometimes overwhelming — it can be trying to find products your baby will actually love. I wanted to create something that felt fun, affordable, personal, and exciting all at the same time.
+
+            </p>
+
+            <p className="text-lg leading-relaxed mb-6">
+
+              The Baby Scoop Bar was created to be more than just shopping — I wanted every order to feel like opening a sweet surprise package made with love 💕
+
+            </p>
+
+            <p className="text-lg leading-relaxed mb-6">
+
+              From mystery scoops filled with adorable baby goodies to our feeding and bottle boxes, every item is carefully chosen with quality, value, and real parents in mind. I truly put so much care into every scoop, package, and live sale because I want customers to feel appreciated and excited every single time they order.
+
+            </p>
+
+            <p className="text-lg leading-relaxed font-semibold text-pink-700">
+
+              Thank you so much for supporting my small business and being part of this journey. It truly means the world to me and my family 💖✨
+
+            </p>
+
+          </div>
+
+        </div>
+
+      </section>
+
       {/* Social */}
 
       <section className="py-16 px-6 bg-pink-100">
