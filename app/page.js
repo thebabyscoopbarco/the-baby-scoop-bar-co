@@ -252,6 +252,34 @@ export default function BabyScoopBarWebsite() {
 
       </section>
 
+      {/* Contact */}
+
+      <section className="py-16 px-6 bg-white">
+
+        <div className="max-w-4xl mx-auto text-center">
+
+          <h2 className="text-4xl font-bold text-pink-700 mb-8">
+
+            Get In Touch 💌
+
+          </h2>
+
+          <p className="text-xl text-gray-700 mb-8">
+
+            Have questions? We'd love to hear from you!
+
+          </p>
+
+          <a href="mailto:babyscoopbarco@gmail.com" className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition inline-block">
+
+            Contact Us
+
+          </a>
+
+        </div>
+
+      </section>
+
       {/* Footer */}
 
       <footer className="bg-pink-700 text-white py-8 text-center px-6">
