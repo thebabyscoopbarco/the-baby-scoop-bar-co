@@ -38,7 +38,7 @@ export default function BabyScoopBarWebsite() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
 
-            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition block">
+            <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition block">
 
               Shop Scoops
 
@@ -112,7 +112,7 @@ export default function BabyScoopBarWebsite() {
 
       </section>
 
-      {/* Pricing */}
+      {/* Pricing - Scoops & BBB */}
 
       <section className="py-16 px-6 bg-white">
 
@@ -120,13 +120,13 @@ export default function BabyScoopBarWebsite() {
 
           <h2 className="text-4xl font-bold text-pink-700 mb-12">
 
-            Choose Your Scoop 🎁
+            Choose Your Products 🎁
 
           </h2>
 
-          <div className="grid md:grid-cols-2 gap-8 max-w-4xl mx-auto">
+          <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
 
-            {/* Classic */}
+            {/* Classic Scoop */}
 
             <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition">
 
@@ -156,7 +156,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
                 Order Now
 
@@ -164,7 +164,7 @@ export default function BabyScoopBarWebsite() {
 
             </div>
 
-            {/* Deluxe */}
+            {/* Deluxe Scoop */}
 
             <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition relative">
 
@@ -200,7 +200,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
                 Grab a Deluxe Scoop
 
@@ -208,83 +208,37 @@ export default function BabyScoopBarWebsite() {
 
             </div>
 
-          </div>
+            {/* Baby Bottle Box */}
 
-        </div>
+            <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition">
 
-      </section>
+              <h3 className="text-3xl font-bold text-blue-600 mb-4">
 
-      {/* Baby Bottle Box */}
+                Baby Bottle Box (BBB) 🍼
 
-      <section className="py-16 px-6 bg-pink-100">
+              </h3>
 
-        <div className="max-w-5xl mx-auto">
+              <div className="text-5xl font-bold mb-4">$45</div>
 
-          <div className="text-center mb-12">
+              <p className="text-lg mb-6">
 
-            <h2 className="text-4xl font-bold text-pink-700 mb-4">
-
-              The Baby Bottle Box (BBB) 🍼
-
-            </h2>
-
-            <p className="text-xl text-gray-700">
-
-              Find your baby's perfect bottle match!
-
-            </p>
-
-          </div>
-
-          <div className="grid md:grid-cols-2 gap-8 items-center">
-
-            <div className="bg-white rounded-3xl shadow-xl p-8 border border-pink-200">
-
-              <div className="text-5xl font-bold text-pink-600 mb-4">$45</div>
-
-              <p className="text-lg mb-8 text-gray-700">
-
-                Curated selection of multiple bottles to find what works best for your little one
+                Find your baby's perfect bottle!
 
               </p>
 
-              <ul className="space-y-4 mb-8">
+              <ul className="space-y-3 text-left mb-8 text-sm">
 
-                <li className="flex items-start gap-3">
+                <li>✔️ Multiple bottles to try</li>
 
-                  <span className="text-2xl">🍼</span>
+                <li>✔️ Thoughtfully curated variety</li>
 
-                  <span className="text-lg"><strong>Multiple Bottles to Try</strong> — Discover which bottle style and nipple your baby prefers without wasting money on full-size sets that may not work.</span>
+                <li>✔️ Perfect for new parents</li>
 
-                </li>
-
-                <li className="flex items-start gap-3">
-
-                  <span className="text-2xl">✨</span>
-
-                  <span className="text-lg"><strong>Thoughtfully Curated Variety</strong> — Each box includes a mix of trusted, high-quality baby feeding options designed for comfort, convenience, and easier feedings.</span>
-
-                </li>
-
-                <li className="flex items-start gap-3">
-
-                  <span className="text-2xl">💖</span>
-
-                  <span className="text-lg"><strong>Perfect for New Parents</strong> — Great for baby showers, first-time moms, breastfeeding transitions, or babies who are picky with bottles.</span>
-
-                </li>
-
-                <li className="flex items-start gap-3">
-
-                  <span className="text-2xl">📦</span>
-
-                  <span className="text-lg"><strong>Stress-Free Feeding Support</strong> — Save time, reduce frustration, and find your baby's perfect fit all in one adorable box.</span>
-
-                </li>
+                <li>✔️ Stress-free feeding support</li>
 
               </ul>
 
-              <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
                 Get Your BBB
 
@@ -300,7 +254,7 @@ export default function BabyScoopBarWebsite() {
 
       {/* Social */}
 
-      <section className="py-16 px-6 bg-white">
+      <section className="py-16 px-6 bg-pink-100">
 
         <div className="max-w-4xl mx-auto text-center">
 
@@ -316,7 +270,7 @@ export default function BabyScoopBarWebsite() {
 
           </p>
 
-          <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-pink-50 rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-xl transition">
+          <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-xl transition">
 
             <p className="text-2xl font-bold text-pink-600 mb-2">
 
@@ -338,7 +292,7 @@ export default function BabyScoopBarWebsite() {
 
       {/* Contact */}
 
-      <section className="py-16 px-6 bg-pink-50">
+      <section className="py-16 px-6 bg-white">
 
         <div className="max-w-4xl mx-auto text-center">
 
