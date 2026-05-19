@@ -38,17 +38,17 @@ export default function BabyScoopBarWebsite() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
 
-            <button className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition">
+            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl text-lg shadow-lg transition block">
 
               Shop Scoops
 
-            </button>
+            </a>
 
-            <button className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl text-lg shadow transition">
+            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl text-lg shadow transition block">
 
               Watch LIVE Sales
 
-            </button>
+            </a>
 
           </div>
 
@@ -156,11 +156,11 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <button className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition">
+              <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
                 Order Now
 
-              </button>
+              </a>
 
             </div>
 
@@ -200,11 +200,11 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <button className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition">
+              <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
                 Grab a Deluxe Scoop
 
-              </button>
+              </a>
 
             </div>
 
@@ -232,11 +232,11 @@ export default function BabyScoopBarWebsite() {
 
           </p>
 
-          <div className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200">
+          <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-xl transition">
 
             <p className="text-2xl font-bold text-pink-600 mb-2">
 
-              @thebabyscoopbar
+              @thebabyscoopbarco
 
             </p>
 
@@ -246,7 +246,7 @@ export default function BabyScoopBarWebsite() {
 
             </p>
 
-          </div>
+          </a>
 
         </div>
 
