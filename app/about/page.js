@@ -40,45 +40,67 @@ export default function AboutScooper() {
 
       <section className="py-16 px-6">
 
-        <div className="max-w-4xl mx-auto">
+        <div className="max-w-5xl mx-auto">
 
-          <h1 className="text-5xl font-bold text-pink-700 mb-4 text-center">
+          <h1 className="text-5xl font-bold text-pink-700 mb-12 text-center">
 
             💖 About the Scooper
 
           </h1>
 
-          <div className="bg-white rounded-3xl shadow-xl p-10 border border-pink-200">
+          <div className="grid md:grid-cols-2 gap-10 items-center">
 
-            <p className="text-lg leading-relaxed mb-6">
+            {/* Photo */}
 
-              Hi and welcome to The Baby Scoop Bar ✨
+            <div className="flex justify-center">
 
-            </p>
+              <img
 
-            <p className="text-lg leading-relaxed mb-6">
+                src="/scooper.jpg"
 
-              I started this little business because I've always loved finding cute baby items and creating fun experiences that bring joy to parents and little ones. As a mom, I know how exciting — and sometimes overwhelming — it can be trying to find products your baby will actually love. I wanted to create something that felt fun, affordable, personal, and exciting all at the same time.
+                alt="The Scooper"
 
-            </p>
+                className="w-full max-w-sm rounded-3xl shadow-xl border-4 border-pink-200"
 
-            <p className="text-lg leading-relaxed mb-6">
+              />
 
-              The Baby Scoop Bar was created to be more than just shopping — I wanted every order to feel like opening a sweet surprise package made with love 💕
+            </div>
 
-            </p>
+            {/* Bio */}
 
-            <p className="text-lg leading-relaxed mb-6">
+            <div className="bg-white rounded-3xl shadow-xl p-10 border border-pink-200">
 
-              From mystery scoops filled with adorable baby goodies to our feeding and bottle boxes, every item is carefully chosen with quality, value, and real parents in mind. I truly put so much care into every scoop, package, and live sale because I want customers to feel appreciated and excited every single time they order.
+              <p className="text-lg leading-relaxed mb-6">
 
-            </p>
+                Hi and welcome to The Baby Scoop Bar ✨
 
-            <p className="text-lg leading-relaxed font-semibold text-pink-700">
+              </p>
 
-              Thank you so much for supporting my small business and being part of this journey. It truly means the world to me and my family 💖✨
+              <p className="text-lg leading-relaxed mb-6">
 
-            </p>
+                I started this little business because I've always loved finding cute baby items and creating fun experiences that bring joy to parents and little ones. As a mom, I know how exciting — and sometimes overwhelming — it can be trying to find products your baby will actually love. I wanted to create something that felt fun, affordable, personal, and exciting all at the same time.
+
+              </p>
+
+              <p className="text-lg leading-relaxed mb-6">
+
+                The Baby Scoop Bar was created to be more than just shopping — I wanted every order to feel like opening a sweet surprise package made with love 💕
+
+              </p>
+
+              <p className="text-lg leading-relaxed mb-6">
+
+                From mystery scoops filled with adorable baby goodies to our feeding and bottle boxes, every item is carefully chosen with quality, value, and real parents in mind. I truly put so much care into every scoop, package, and live sale because I want customers to feel appreciated and excited every single time they order.
+
+              </p>
+
+              <p className="text-lg leading-relaxed font-semibold text-pink-700">
+
+                Thank you so much for supporting my small business and being part of this journey. It truly means the world to me and my family 💖✨
+
+              </p>
+
+            </div>
 
           </div>
 
