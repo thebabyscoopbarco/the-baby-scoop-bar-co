@@ -158,161 +158,123 @@ export default function BabyScoopBarWebsite() {
 
           <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
 
-            {/* Classic Scoop with Image Above */}
+            {/* Classic Scoop */}
 
-            <div className="flex flex-col items-center">
+            <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition">
 
-              <img
+              <h3 className="text-3xl font-bold text-pink-600 mb-4">
 
-                src="/doublescoop.png"
+                Classic Scoop
 
-                alt="Classic Scoop"
+              </h3>
 
-                className="w-full h-48 object-cover rounded-2xl shadow-lg mb-4"
+              <div className="text-5xl font-bold mb-4">$50</div>
 
-              />
+              <p className="text-lg mb-6">
 
-              <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition w-full">
+                5–7 adorable baby surprise items
 
-                <h3 className="text-3xl font-bold text-pink-600 mb-4">
+              </p>
 
-                  Classic Scoop
+              <ul className="space-y-3 text-left mb-8">
 
-                </h3>
+                <li>✔️ Bows & accessories</li>
 
-                <div className="text-5xl font-bold mb-4">$50</div>
+                <li>✔️ Teethers & toys</li>
 
-                <p className="text-lg mb-6">
+                <li>✔️ Socks, bibs & essentials</li>
 
-                  5–7 adorable baby surprise items
+                <li>✔️ Surprise bonus items</li>
 
-                </p>
+              </ul>
 
-                <ul className="space-y-3 text-left mb-8">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
-                  <li>✔️ Bows & accessories</li>
+                Order Now
 
-                  <li>✔️ Teethers & toys</li>
-
-                  <li>✔️ Socks, bibs & essentials</li>
-
-                  <li>✔️ Surprise bonus items</li>
-
-                </ul>
-
-                <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
-
-                  Order Now
-
-                </a>
-
-              </div>
+              </a>
 
             </div>
 
-            {/* Deluxe Scoop with Image Above */}
+            {/* Deluxe Scoop */}
 
-            <div className="flex flex-col items-center">
+            <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition relative">
 
-              <img
+              <div className="absolute top-4 right-4 bg-pink-600 text-white px-4 py-1 rounded-full text-sm shadow">
 
-                src="/brandnames.png"
-
-                alt="Deluxe Scoop"
-
-                className="w-full h-48 object-cover rounded-2xl shadow-lg mb-4"
-
-              />
-
-              <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition w-full relative">
-
-                <div className="absolute top-4 right-4 bg-pink-600 text-white px-4 py-1 rounded-full text-sm shadow">
-
-                  Best Seller
-
-                </div>
-
-                <h3 className="text-3xl font-bold text-pink-700 mb-4">
-
-                  Deluxe Scoop
-
-                </h3>
-
-                <div className="text-5xl font-bold mb-4">$95</div>
-
-                <p className="text-lg mb-6">
-
-                  Bigger surprises + premium goodies
-
-                </p>
-
-                <ul className="space-y-3 text-left mb-8">
-
-                  <li>✨ 8–10 baby items</li>
-
-                  <li>✨ Boutique-style accessories</li>
-
-                  <li>✨ Larger toy or premium item</li>
-
-                  <li>✨ Bonus surprise included</li>
-
-                </ul>
-
-                <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
-
-                  Grab a Deluxe Scoop
-
-                </a>
+                Best Seller
 
               </div>
+
+              <h3 className="text-3xl font-bold text-pink-700 mb-4">
+
+                Deluxe Scoop
+
+              </h3>
+
+              <div className="text-5xl font-bold mb-4">$95</div>
+
+              <p className="text-lg mb-6">
+
+                Bigger surprises + premium goodies
+
+              </p>
+
+              <ul className="space-y-3 text-left mb-8">
+
+                <li>✨ 8–10 baby items</li>
+
+                <li>✨ Boutique-style accessories</li>
+
+                <li>✨ Larger toy or premium item</li>
+
+                <li>✨ Bonus surprise included</li>
+
+              </ul>
+
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+
+                Grab a Deluxe Scoop
+
+              </a>
 
             </div>
 
             {/* Baby Bottle Box */}
 
-            <div className="flex flex-col items-center">
+            <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition">
 
-              <div className="w-full h-48 bg-blue-100 rounded-2xl shadow-lg mb-4 flex items-center justify-center">
+              <h3 className="text-3xl font-bold text-blue-600 mb-4">
 
-                <span className="text-blue-600 font-semibold">Product Image</span>
+                Baby Bottle Box (BBB) 🍼
 
-              </div>
+              </h3>
 
-              <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition w-full">
+              <div className="text-5xl font-bold mb-4">$45</div>
 
-                <h3 className="text-3xl font-bold text-blue-600 mb-4">
+              <p className="text-lg mb-6">
 
-                  Baby Bottle Box (BBB) 🍼
+                Find your baby's perfect bottle!
 
-                </h3>
+              </p>
 
-                <div className="text-5xl font-bold mb-4">$45</div>
+              <ul className="space-y-3 text-left mb-8 text-sm">
 
-                <p className="text-lg mb-6">
+                <li>✔️ Multiple bottles to try</li>
 
-                  Find your baby's perfect bottle!
+                <li>✔️ Thoughtfully curated variety</li>
 
-                </p>
+                <li>✔️ Perfect for new parents</li>
 
-                <ul className="space-y-3 text-left mb-8 text-sm">
+                <li>✔️ Stress-free feeding support</li>
 
-                  <li>✔️ Multiple bottles to try</li>
+              </ul>
 
-                  <li>✔️ Thoughtfully curated variety</li>
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
-                  <li>✔️ Perfect for new parents</li>
+                Get Your BBB
 
-                  <li>✔️ Stress-free feeding support</li>
-
-                </ul>
-
-                <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
-
-                  Get Your BBB
-
-                </a>
-
-              </div>
+              </a>
 
             </div>
 
