@@ -156,13 +156,23 @@ export default function BabyScoopBarWebsite() {
 
           </h2>
 
-          <div className="space-y-8">
+          <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
 
-            {/* Row 1: Classic Scoop */}
+            {/* Classic Scoop with Image Above */}
 
-            <div className="flex justify-center">
+            <div className="flex flex-col items-center">
 
-              <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition w-full max-w-sm">
+              <img
+
+                src="/doublescoop.png"
+
+                alt="Classic Scoop"
+
+                className="w-full h-48 object-cover rounded-2xl shadow-lg mb-4"
+
+              />
+
+              <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition w-full">
 
                 <h3 className="text-3xl font-bold text-pink-600 mb-4">
 
@@ -200,27 +210,21 @@ export default function BabyScoopBarWebsite() {
 
             </div>
 
-            {/* Image Between */}
+            {/* Deluxe Scoop with Image Above */}
 
-            <div className="flex justify-center py-6">
+            <div className="flex flex-col items-center">
 
               <img
 
-                src="/doublescoop.png"
+                src="/brandnames.png"
 
-                alt="Double Scoop"
+                alt="Deluxe Scoop"
 
-                className="max-w-md rounded-2xl shadow-lg"
+                className="w-full h-48 object-cover rounded-2xl shadow-lg mb-4"
 
               />
 
-            </div>
-
-            {/* Row 2: Deluxe Scoop */}
-
-            <div className="flex justify-center">
-
-              <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition w-full max-w-sm relative">
+              <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition w-full relative">
 
                 <div className="absolute top-4 right-4 bg-pink-600 text-white px-4 py-1 rounded-full text-sm shadow">
 
@@ -264,27 +268,17 @@ export default function BabyScoopBarWebsite() {
 
             </div>
 
-            {/* Image Between */}
+            {/* Baby Bottle Box */}
 
-            <div className="flex justify-center py-6">
+            <div className="flex flex-col items-center">
 
-              <img
+              <div className="w-full h-48 bg-blue-100 rounded-2xl shadow-lg mb-4 flex items-center justify-center">
 
-                src="/brandnames.png"
+                <span className="text-blue-600 font-semibold">Product Image</span>
 
-                alt="Brand Names"
+              </div>
 
-                className="max-w-md rounded-2xl shadow-lg"
-
-              />
-
-            </div>
-
-            {/* Row 3: Baby Bottle Box */}
-
-            <div className="flex justify-center">
-
-              <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition w-full max-w-sm">
+              <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition w-full">
 
                 <h3 className="text-3xl font-bold text-blue-600 mb-4">
 
