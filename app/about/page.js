@@ -44,7 +44,7 @@ export default function AboutScooper() {
 
           <h1 className="text-5xl font-bold text-pink-700 mb-12 text-center">
 
-            💖 About the Scooper
+            💖 About Me
 
           </h1>
 
@@ -58,7 +58,7 @@ export default function AboutScooper() {
 
                 src="/scooper.jpg"
 
-                alt="The Scooper"
+                alt="Melissa - The Scooper"
 
                 className="w-full max-w-sm rounded-3xl shadow-xl border-4 border-pink-200"
 
@@ -78,7 +78,7 @@ export default function AboutScooper() {
 
               <p className="text-lg leading-relaxed mb-6">
 
-                I started this little business because I've always loved finding cute baby items and creating fun experiences that bring joy to parents and little ones. As a mom, I know how exciting — and sometimes overwhelming — it can be trying to find products your baby will actually love. I wanted to create something that felt fun, affordable, personal, and exciting all at the same time.
+                I started this little business because I've always loved finding cute baby items and creating fun experiences that bring joy to parents and little ones. As a mom of four, I know how exciting — and sometimes overwhelming — it can be trying to find products your baby will actually love. I wanted to create something that felt fun, affordable, personal, and exciting all at the same time.
 
               </p>
 
@@ -97,6 +97,12 @@ export default function AboutScooper() {
               <p className="text-lg leading-relaxed font-semibold text-pink-700">
 
                 Thank you so much for supporting my small business and being part of this journey. It truly means the world to me and my family 💖✨
+
+              </p>
+
+              <p className="text-xl leading-relaxed font-bold text-pink-700 mt-8">
+
+                -Melissa
 
               </p>
 
