@@ -44,7 +44,7 @@ export default function AboutScooper() {
 
           <h1 className="text-5xl font-bold text-pink-700 mb-12 text-center">
 
-            💖 About Me
+            💖 About the Scooper
 
           </h1>
 
