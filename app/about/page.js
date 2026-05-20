@@ -76,6 +76,16 @@ export default function AboutScooper() {
 
               </p>
 
+              <div className="bg-pink-50 rounded-2xl p-6 mb-6 border border-pink-200">
+
+                <p className="text-lg leading-relaxed font-semibold text-pink-700">
+
+                  A little about me: I'm a mom of four, wife, registered nurse, homeschool mom, Jesus lover, and entrepreneur.
+
+                </p>
+
+              </div>
+
               <p className="text-lg leading-relaxed mb-6">
 
                 I started this little business because I've always loved finding cute baby items and creating fun experiences that bring joy to parents and little ones. As a mom of four, I know how exciting — and sometimes overwhelming — it can be trying to find products your baby will actually love. I wanted to create something that felt fun, affordable, personal, and exciting all at the same time.
@@ -90,7 +100,7 @@ export default function AboutScooper() {
 
               <p className="text-lg leading-relaxed mb-6">
 
-                From mystery scoops filled with adorable baby goodies to our feeding and bottle boxes, every item is carefully chosen with quality, value, and real parents in mind. I truly put so much care into every scoop, package, and live sale because I want customers to feel appreciated and excited every single time they order.
+                From mystery scoops filled with adorable baby goodies to our bottle boxes, every item is carefully chosen with quality, value, and real parents in mind. I truly put so much care into every scoop, package, and live sale because I want customers to feel appreciated and excited every single time they order.
 
               </p>
 
