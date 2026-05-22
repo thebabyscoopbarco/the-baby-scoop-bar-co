@@ -172,7 +172,7 @@ export default function BabyScoopBarWebsite() {
 
               <p className="text-lg mb-6">
 
-                5–7 adorable baby surprise items
+                10+ adorable baby surprise items
 
               </p>
 
@@ -216,19 +216,19 @@ export default function BabyScoopBarWebsite() {
 
               <p className="text-lg mb-6">
 
-                Bigger surprises + premium goodies
+                15+ premium baby goodies
 
               </p>
 
               <ul className="space-y-3 text-left mb-8">
-
-                <li>✨ 8–10 baby items</li>
 
                 <li>✨ Boutique-style accessories</li>
 
                 <li>✨ Larger toy or premium item</li>
 
                 <li>✨ Bonus surprise included</li>
+
+                <li>✨ Bigger surprises & more variety</li>
 
               </ul>
 
