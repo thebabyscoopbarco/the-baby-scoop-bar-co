@@ -184,8 +184,6 @@ export default function BabyScoopBarWebsite() {
 
                 <li>✔️ Socks, bibs & essentials</li>
 
-                <li>✔️ Surprise bonus items</li>
-
               </ul>
 
               <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
@@ -224,7 +222,7 @@ export default function BabyScoopBarWebsite() {
 
                 <li>✨ Boutique-style accessories</li>
 
-                <li>✨ Larger toy or premium item</li>
+                <li>✨ Mystery item</li>
 
                 <li>✨ Bonus surprise included</li>
 
