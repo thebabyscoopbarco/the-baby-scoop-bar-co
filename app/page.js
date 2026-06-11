@@ -156,7 +156,7 @@ export default function BabyScoopBarWebsite() {
 
           </h2>
 
-          <div className="grid md:grid-cols-3 gap-8 max-w-6xl mx-auto">
+          <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-8 max-w-7xl mx-auto">
 
             {/* Classic Scoop */}
 
@@ -273,6 +273,44 @@ export default function BabyScoopBarWebsite() {
               <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
                 Get Your BBB
+
+              </a>
+
+            </div>
+
+            {/* Mystery Gift Add-On */}
+
+            <div className="bg-purple-50 rounded-3xl shadow-lg p-8 border border-purple-200 hover:scale-105 transition">
+
+              <h3 className="text-3xl font-bold text-purple-600 mb-4">
+
+                Mystery Gift Add-On ✨
+
+              </h3>
+
+              <div className="text-5xl font-bold mb-4">$10</div>
+
+              <p className="text-lg mb-6">
+
+                Hand-selected surprise treasure
+
+              </p>
+
+              <ul className="space-y-3 text-left mb-8 text-sm">
+
+                <li>🎁 Baby accessory or toy</li>
+
+                <li>🍼 Feeding item</li>
+
+                <li>📖 Book or keepsake</li>
+
+                <li>💜 Special baby treasure</li>
+
+              </ul>
+
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+
+                Add Extra Love
 
               </a>
 
