@@ -178,11 +178,11 @@ export default function BabyScoopBarWebsite() {
 
               <ul className="space-y-3 text-left mb-8">
 
-                <li>✔️ Bows & accessories</li>
+                <li>💖 Bows & accessories</li>
 
-                <li>✔️ Teethers & toys</li>
+                <li>💖 Teethers & toys</li>
 
-                <li>✔️ Socks, bibs & essentials</li>
+                <li>💖 Socks, bibs & essentials</li>
 
               </ul>
 
@@ -220,13 +220,11 @@ export default function BabyScoopBarWebsite() {
 
               <ul className="space-y-3 text-left mb-8">
 
-                <li>✨ Boutique-style accessories</li>
+                <li>💖 Boutique-style accessories</li>
 
-                <li>✨ Mystery item</li>
+                <li>💖 Mystery item</li>
 
-                <li>✨ Bonus surprise included</li>
-
-                <li>✨ Bigger surprises & more variety</li>
+                <li>💖 Bigger surprises & more variety</li>
 
               </ul>
 
@@ -258,13 +256,13 @@ export default function BabyScoopBarWebsite() {
 
               <ul className="space-y-3 text-left mb-8 text-sm">
 
-                <li>✔️ Multiple bottles to try</li>
+                <li>💖 Multiple bottles to try</li>
 
-                <li>✔️ Thoughtfully curated variety</li>
+                <li>💖 Thoughtfully curated variety</li>
 
-                <li>✔️ Perfect for new parents</li>
+                <li>💖 Perfect for new parents</li>
 
-                <li>✔️ Stress-free feeding support</li>
+                <li>💖 Stress-free feeding support</li>
 
               </ul>
 
