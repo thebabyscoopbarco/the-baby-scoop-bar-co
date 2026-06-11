@@ -322,35 +322,49 @@ export default function BabyScoopBarWebsite() {
 
       <section className="py-16 px-6 bg-pink-100">
 
-        <div className="max-w-4xl mx-auto text-center">
+        <div className="max-w-6xl mx-auto text-center">
 
-          <h2 className="text-4xl font-bold text-pink-700 mb-6">
+          <h2 className="text-4xl font-bold text-pink-700 mb-12">
 
-            Watch Our Packaging Videos 🎥
+            Follow Us 🎥
 
           </h2>
 
-          <p className="text-xl mb-8">
+          <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
 
-            See all the cute details in our packaging and product reveals!
+            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-xl transition">
 
-          </p>
+              <p className="text-2xl font-bold text-pink-600 mb-2">
 
-          <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-xl transition">
+                @thebabyscoopbarco
 
-            <p className="text-2xl font-bold text-pink-600 mb-2">
+              </p>
 
-              @thebabyscoopbarco
+              <p className="text-lg text-gray-600">
 
-            </p>
+                Follow us on TikTok for packaging videos, giveaways, and surprise drops 💖
 
-            <p className="text-lg text-gray-600">
+              </p>
 
-              Follow us on TikTok for packaging videos, giveaways, and surprise drops 💖
+            </a>
 
-            </p>
+            <a href="https://www.facebook.com/profile.php?id=61590614615568" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-blue-200 hover:shadow-xl transition">
 
-          </a>
+              <p className="text-2xl font-bold text-blue-600 mb-2">
+
+                The Baby Scoop Bar
+
+              </p>
+
+              <p className="text-lg text-gray-600">
+
+                Follow us on Facebook for updates, special offers, and community love 💕
+
+              </p>
+
+            </a>
+
+          </div>
 
         </div>
 
