@@ -160,7 +160,7 @@ export default function BabyScoopBarWebsite() {
 
             {/* Classic Scoop */}
 
-            <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition">
+            <div className="bg-pink-50 rounded-3xl shadow-lg p-8 border border-pink-200 hover:scale-105 transition flex flex-col">
 
               <h3 className="text-3xl font-bold text-pink-600 mb-4">
 
@@ -176,7 +176,7 @@ export default function BabyScoopBarWebsite() {
 
               </p>
 
-              <ul className="space-y-3 text-left mb-8">
+              <ul className="space-y-3 text-left mb-8 flex-grow">
 
                 <li>💖 Bows & accessories</li>
 
@@ -186,7 +186,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center mt-auto">
 
                 Order Now
 
@@ -196,7 +196,7 @@ export default function BabyScoopBarWebsite() {
 
             {/* Deluxe Scoop */}
 
-            <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition relative">
+            <div className="bg-gradient-to-b from-pink-200 to-pink-50 rounded-3xl shadow-xl p-8 border-2 border-pink-400 hover:scale-105 transition relative flex flex-col">
 
               <div className="absolute top-4 right-4 bg-pink-600 text-white px-4 py-1 rounded-full text-sm shadow">
 
@@ -218,7 +218,7 @@ export default function BabyScoopBarWebsite() {
 
               </p>
 
-              <ul className="space-y-3 text-left mb-8">
+              <ul className="space-y-3 text-left mb-8 flex-grow">
 
                 <li>💖 Boutique-style accessories</li>
 
@@ -228,7 +228,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center mt-auto">
 
                 Order Now
 
@@ -238,7 +238,7 @@ export default function BabyScoopBarWebsite() {
 
             {/* Baby Bottle Box */}
 
-            <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition">
+            <div className="bg-blue-50 rounded-3xl shadow-lg p-8 border border-blue-200 hover:scale-105 transition flex flex-col">
 
               <h3 className="text-3xl font-bold text-blue-600 mb-4">
 
@@ -254,7 +254,7 @@ export default function BabyScoopBarWebsite() {
 
               </p>
 
-              <ul className="space-y-3 text-left mb-8 text-sm">
+              <ul className="space-y-3 text-left mb-8 text-sm flex-grow">
 
                 <li>💖 Multiple bottles to try</li>
 
@@ -266,7 +266,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center mt-auto">
 
                 Order Now
 
@@ -276,7 +276,7 @@ export default function BabyScoopBarWebsite() {
 
             {/* Mystery Gift Add-On */}
 
-            <div className="bg-purple-50 rounded-3xl shadow-lg p-8 border border-purple-200 hover:scale-105 transition">
+            <div className="bg-purple-50 rounded-3xl shadow-lg p-8 border border-purple-200 hover:scale-105 transition flex flex-col">
 
               <h3 className="text-3xl font-bold text-purple-600 mb-4">
 
@@ -292,7 +292,7 @@ export default function BabyScoopBarWebsite() {
 
               </p>
 
-              <ul className="space-y-3 text-left mb-8 text-sm">
+              <ul className="space-y-3 text-left mb-8 text-sm flex-grow">
 
                 <li>🎁 Baby accessory or toy</li>
 
@@ -304,7 +304,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center mt-auto">
 
                 Add Extra Love
 
