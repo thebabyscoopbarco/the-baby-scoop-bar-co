@@ -214,7 +214,7 @@ export default function BabyScoopBarWebsite() {
 
               <p className="text-lg mb-6">
 
-                10-15 premium baby goodies
+                10-15 premium baby surprise items
 
               </p>
 
