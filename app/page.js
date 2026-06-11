@@ -172,7 +172,7 @@ export default function BabyScoopBarWebsite() {
 
               <p className="text-lg mb-6">
 
-                10+ adorable baby surprise items
+                5-7 adorable baby surprise items
 
               </p>
 
