@@ -230,7 +230,7 @@ export default function BabyScoopBarWebsite() {
 
               <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
-                Grab a Deluxe Scoop
+                Order Now
 
               </a>
 
@@ -268,7 +268,7 @@ export default function BabyScoopBarWebsite() {
 
               <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-blue-600 hover:bg-blue-700 text-white py-4 rounded-2xl text-lg shadow-lg transition block text-center">
 
-                Get Your BBB
+                Order Now
 
               </a>
 
