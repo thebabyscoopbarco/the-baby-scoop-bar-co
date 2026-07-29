@@ -78,7 +78,7 @@ export default function BabyScoopBarWebsite() {
 
             </a>
 
-            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl shadow inline-block">
+            <a href="https://www.tiktok.com/@thebabyscoopbar" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl shadow inline-block">
 
               Watch Packaging Videos
 
@@ -328,11 +328,11 @@ export default function BabyScoopBarWebsite() {
 
           <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
 
-            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-2xl transition">
+            <a href="https://www.tiktok.com/@thebabyscoopbar" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-2xl transition">
 
               <p className="text-2xl font-bold text-pink-600 mb-2">
 
-                @thebabyscoopbarco
+                @thebabyscoopbar
 
               </p>
 
