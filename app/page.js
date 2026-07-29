@@ -244,7 +244,7 @@ export default function BabyScoopBarWebsite() {
 
               <h3 className="text-3xl font-bold text-purple-700 mb-4">
 
-                The Twin Scoop 🍨
+                The Twin Scoop
 
               </h3>
 
@@ -276,7 +276,7 @@ export default function BabyScoopBarWebsite() {
 
               <h3 className="text-3xl font-bold text-purple-600 mb-4">
 
-                Mystery Gift Add-On ✨
+                Mystery Gift Add-On
 
               </h3>
 
