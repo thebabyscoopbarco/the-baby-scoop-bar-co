@@ -1,5 +1,4 @@
 # the-baby-scoop-bar-co
 mystery scoop baby edition
 
-
-<!-- noop commit to trigger redeploy -->
+<!-- redeploy trigger: 2026-07-29T02:16:00Z -->
