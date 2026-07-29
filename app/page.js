@@ -1,5 +1,7 @@
 export default function BabyScoopBarWebsite() {
 
+  // redeploy-trigger: 2026-07-29T02:40:00Z
+
   return (
 
     <div className="min-h-screen bg-pink-50 text-gray-800">
@@ -70,13 +72,13 @@ export default function BabyScoopBarWebsite() {
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
 
-            <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl shadow-lg text-lg font-semibold">
+            <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="bg-pink-600 hover:bg-pink-700 text-white px-8 py-4 rounded-2xl shadow-lg transition inline-block">
 
               Shop Scoops
 
             </a>
 
-            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl shadow-lg text-lg font-semibold">
+            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-pink-100 text-pink-700 border border-pink-300 px-8 py-4 rounded-2xl shadow inline-block">
 
               Watch Packaging Videos
 
@@ -186,7 +188,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl shadow font-semibold">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-600 hover:bg-pink-700 text-white py-4 rounded-2xl shadow-lg transition inline-block">
 
                 Order Now
 
@@ -228,7 +230,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl shadow font-semibold">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-pink-700 hover:bg-pink-800 text-white py-4 rounded-2xl shadow-lg transition inline-block">
 
                 Order Now
 
@@ -238,9 +240,9 @@ export default function BabyScoopBarWebsite() {
 
             {/* The Twin Scoop (replaces Baby Bottle Box) */}
 
-            <div className="bg-purple-50 rounded-3xl shadow-lg p-8 border border-purple-200 hover:scale-105 transition flex flex-col">
+            <div className="bg-purple-100 rounded-3xl shadow-lg p-8 border border-purple-200 hover:scale-105 transition flex flex-col">
 
-              <h3 className="text-3xl font-bold text-purple-600 mb-4">
+              <h3 className="text-3xl font-bold text-purple-700 mb-4">
 
                 The Twin Scoop 🍨
 
@@ -260,7 +262,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl shadow font-semibold">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl shadow-lg transition inline-block">
 
                 Order Now
 
@@ -298,7 +300,7 @@ export default function BabyScoopBarWebsite() {
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl shadow font-semibold">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl shadow-lg transition inline-block">
 
                 Add Extra Love
 
@@ -326,7 +328,7 @@ export default function BabyScoopBarWebsite() {
 
           <div className="grid md:grid-cols-2 gap-8 max-w-3xl mx-auto">
 
-            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-xl">
+            <a href="https://www.tiktok.com/@thebabyscoopbarco" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-pink-200 hover:shadow-2xl transition">
 
               <p className="text-2xl font-bold text-pink-600 mb-2">
 
@@ -342,7 +344,7 @@ export default function BabyScoopBarWebsite() {
 
             </a>
 
-            <a href="https://www.facebook.com/profile.php?id=61590614615568" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-blu[...]
+            <a href="https://www.facebook.com/profile.php?id=61590614615568" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-blue-200 hover:shadow-2xl transition">
 
               
 
