@@ -238,35 +238,29 @@ export default function BabyScoopBarWebsite() {
 
             {/* The Twin Scoop (replaces Baby Bottle Box) */}
 
-            <div className="bg-yellow-50 rounded-3xl shadow-lg p-8 border border-yellow-200 hover:scale-105 transition flex flex-col">
+            <div className="bg-purple-50 rounded-3xl shadow-lg p-8 border border-purple-200 hover:scale-105 transition flex flex-col">
 
-              <h3 className="text-3xl font-bold text-yellow-600 mb-4">
+              <h3 className="text-3xl font-bold text-purple-600 mb-4">
 
                 The Twin Scoop 🍨
 
               </h3>
 
-              <div className="text-5xl font-bold mb-4">$45</div>
-
-              <p className="text-lg mb-6">
-
-                Two scoops of curated baby goodies — double the surprise!
-
-              </p>
+              <div className="text-5xl font-bold mb-4">$140</div>
 
               <ul className="space-y-3 text-left mb-8 text-sm flex-grow">
 
-                <li>💖 Two themed mystery scoops</li>
+                <li>🍼 Double the non-shareable baby essentials</li>
 
-                <li>💖 Great for sharing or extra variety</li>
+                <li>🎁 2 Mystery Items</li>
 
-                <li>💖 Includes essentials & cute extras</li>
+                <li>💕 Hand-picked products for both babies</li>
 
-                <li>💖 Perfect for baby showers or twins</li>
+                <li>📦 Beautifully packaged and ready to gift</li>
 
               </ul>
 
-              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-yellow-600 hover:bg-yellow-700 text-white py-4 rounded-2xl shadow font-semibold">
+              <a href="https://the-baby-scoop-bar.myshopify.com/collections/shop-scoops" target="_blank" rel="noopener noreferrer" className="w-full bg-purple-600 hover:bg-purple-700 text-white py-4 rounded-2xl shadow font-semibold">
 
                 Order Now
 
@@ -348,7 +342,9 @@ export default function BabyScoopBarWebsite() {
 
             </a>
 
-            <a href="https://www.facebook.com/profile.php?id=61590614615568" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-blue-200 hover:shadow-xl">
+            <a href="https://www.facebook.com/profile.php?id=61590614615568" target="_blank" rel="noopener noreferrer" className="bg-white rounded-3xl shadow-lg p-8 inline-block border border-blu[...]
+
+              
 
               <p className="text-2xl font-bold text-blue-600 mb-2">
 
